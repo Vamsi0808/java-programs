@@ -1,0 +1,138 @@
+program 1
+A person saves his monthly saving according to given schema. He saves same amount of money which is equal to the money saved in immediate previous two months. Assume, initially he saved 1000 rupees and in first month he saved another 1000. Your task is to tell how much he had totally saved at the end of ‘n’ months
+
+Input Description:
+You will be given a number ‘n’->No. of months
+
+Output Description:
+Print the total savings at the end of ‘n’ months
+
+Sample Input :
+1
+Sample Output :
+2000
+  program 2
+  You are given with two arrays. Your task is to merge the array such that first array is in ascending order and second one in descending order.
+
+Input Description:
+First line contains two integer ‘n’ and ‘m’. ‘n’ denotes length of array 1 and ‘m’ of array 2.Next line contains n space separated numbers and third line contains ‘m’ space separated numbers
+
+Output Description:
+Print a single array in desired order
+
+Sample Input :
+3 3
+23 15 16
+357 65 10
+Sample Output :
+15 16 23 357 65 10
+  program 3
+  You are given an array of ids of prisoners. The jail authority found that there are some prisoners of same id. Your task is to help the authority in finding the common ids.
+
+Input Description:
+First line contains a number ‘n’ representing no of prisoners. Next line contains n space separated numbers.
+
+Output Description:
+Print the ids which are not unique. Print -1 if all ids are unique
+
+Sample Input :
+7
+1 1 11 121 131 141 98
+Sample Output :
+1
+  program 4
+  Assume you are a student studying in school.You are given a task to find first negative integer for each and every window of size k.
+
+Input Description:
+First line contains an integer n denoting the size of the array. The next line contains n space separated integers forming the array. The last line contains the window size k.
+
+Output Description:
+Print the first negative integer in that window.If all the numbers are positive print 0
+
+Sample Input :
+7
+1 -2 -3 -4 5 6 -7
+3
+Sample Output :
+-2 -2 -3 -4 -7
+  program 5
+  You are given with an array. For each element present in the array your task is to print the next smallest than that number. If it is not smallest print -1
+
+Input Description:
+You are given a number ‘n’ representing size of array. And n space separated numbers.
+
+Output Description:
+Print the next smallest number present in array and -1 if no smallest is present
+
+Sample Input :
+7
+10 7 9 3 2 1 15
+Sample Output :
+7 3 3 2 1 -1 -1
+  program 6
+  You are given with an array of numbers, Your task is to print the difference of indices of largest and smallest number.All number are unique.
+
+Input Description:
+First line contains a number ‘n’. Then next line contains n space separated numbers.
+
+Output Description:
+Print the difference of indices of largest and smallest array
+
+Sample Input :
+5
+1 6 4 0 3
+Sample Output :
+-2
+  program 7
+  you are given with array of numbers.you have to find whether array is beautiful or not. A beautiful array is an array whose sum of all numbers is divisible by 2, 3 and 5
+
+Input Description:
+You are given a number ‘n’ denoting the size of array.Next line contains n space separated numbers.
+
+Output Description:
+Print 1 if array is beautiful and 0 if it is not
+
+Sample Input :
+5
+5 25 35 -5 30
+Sample Output :
+1
+  program 8
+  Find the first 0 in window of size k. You  are given n numbers and window size ‘w’
+
+Your task is to print the first index which has 0
+
+Input Description:
+You are given two numbers ‘n’ and ‘w’ n representing size of array and ‘w’ size of window
+
+Output Description:
+Print the index of first 0(1 basedindexing),if there is no index with 0 print -1
+
+Sample Input :
+7 2
+1 0 6 7 4 0 9
+Sample Output :
+2 2 -1 -1 6 6
+  program 9
+  You are given an array. Your task is to sort the array in given manner. Print the elements in increasing order of the frequency. If frequency is same print smaller one first.
+
+Input Description:
+You are given a number ‘n’. Then in next line n space separated numbers.
+
+Output Description:
+Print the array as mentioned
+
+Sample Input :
+4
+1 1 3 2
+Sample Output :
+2 3 1
+  program 10
+  Given a number N, print the odd digits in the number(space seperated) or print -1 if there is no odd digit in the given number.
+Input Size : N <= 100000
+Sample Testcase :
+INPUT
+2143
+OUTPUT
+1 3
+
