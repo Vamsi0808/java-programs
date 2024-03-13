@@ -1,0 +1,127 @@
+program 1
+  you are given a string made up of parenthesis only.Your task is to check whether parenthesis are balanced or not.If they are balanced print 1 else print 0
+
+Input Description:
+You are given a string ‘s’
+
+Output Description:
+Print 1 for balanced and 0 for imbalanced
+
+Sample Input :
+{({})}
+Sample Output :
+1
+  program 2
+  you are given a string made up of parenthesis only.Your task is to check whether parenthesis are balanced or not.If they are balanced print 1 else print 0
+
+Input Description:
+You are given a string ‘s’
+
+Output Description:
+Print 1 for balanced and 0 for imbalanced
+
+Sample Input :
+{({})}
+Sample Output :
+1
+  program 3
+  Rahul is given a task to manipulate a string, He hired you as a developer your task is to delete all the repeating characters and print the result left.
+
+Input Description:
+You are given a string ‘s’
+
+Output Description:
+Print the remaining string
+
+Sample Input :
+mississipie
+Sample Output :
+mpe
+  program 4
+  Given a string 'S' print the sum of weight of the String. A weight of character is defined as the ASCII value of corresponding character.
+
+Input Description:
+You are given a string ‘s’
+
+Output Description:
+Print weight
+
+Sample Input :
+abc
+Sample Output :
+294
+  program 5
+   Jennyfer is fond of strings. She wants to read the character from right to left (reverse the string), so she wants you to design a suitable algorithm which satisfy her desire.
+
+Input Description:
+Enter the string ‘s’
+
+Output Description:
+Print the string from characters right to left.
+
+Sample Input :
+jennyfer
+Sample Output :
+Refynnej
+  program 6
+   You are given a string. You have to print “Wonder” if the string is wonderful and -1 if it is not. A wonderful string is a string,which is made up of exactly 3 different characters.
+
+Input Description:
+You are given a string
+
+Output Description:
+Print “Wonder” if it is wonderful and -1 if it is not
+
+Sample Input :
+aabbcc
+Sample Output :
+Wonder
+  program 7
+  Given a string S, print it without using semicolon in your program.
+Sample Testcase :
+INPUT
+hello world
+OUTPUT
+hello world
+  program 8
+  Ria is a 5 year old girl. Her mother wants to teach her how to sort words in the same order that they appear in a dictionary. She decides to write a program to sort a given set of strings based on their alphabetical order. Help Ria’s mother to complete the program.
+Input Description:
+A set of N strings
+
+Output Description:
+Alphabetically sorted set of strings
+
+Sample Input :
+3
+InfinityWar EndGame Avengers
+Sample Output :
+Avengers EndGame InfinityWar
+  program 9
+  Write a program to get a string S, Type of conversion (1 - Convert to Lowercase, 2 - Convert to Uppercase) T, and integer P . Convert the case of the letters in the positions which are multiples of P.(1 based indexing).
+
+Input Description:
+Given a string S, Type of conversion T, and integer P
+
+Output Description:
+Convert the case of the letters and print the string
+
+Sample Input :
+ProFiLe
+1
+2
+Sample Output :
+Profile
+  program 10
+  You are given a string.Your task is to print only the consonants present in the string without affecting the sentence spacings if present. If no consonants are present print -1
+
+Input Description:
+You are given a string ‘s’.
+
+Output Description:
+Print only consonants.
+
+Sample Input :
+I am shrey 
+Sample Output :
+ m shry
+
